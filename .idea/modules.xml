@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CountInMatrix2D.iml" filepath="$PROJECT_DIR$/CountInMatrix2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountColumnInMatrix2D.iml" filepath="$PROJECT_DIR$/CountColumnInMatrix2D.iml" />
     </modules>
   </component>
 </project>
